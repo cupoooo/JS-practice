@@ -76,3 +76,4 @@ function log(num){
 const answer = log(7);
 console.log(answer);
 */
+
